@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.button {
+  width: 90px;
+  height: 30px;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-style: solid;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  font-family: 'roboto';
+  margin-left: 25px;
+  margin-top: 8px;
+}
+.heading {
+  font-family: 'roboto';
+}
